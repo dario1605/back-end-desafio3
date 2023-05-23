@@ -1,0 +1,12 @@
+[
+    
+    {"title":"Cordoba","description":"1 Litro","price":400,"thumbnail":"https://statics.dinoonline.com.ar/imagenes/full_600x600_ma/3100656_f.jpg","code":1000,"stock":1000,"id":1},
+    {"title":"Quilmes","description":"1 Litro","price":450,"thumbnail":"https://masonlineprod.vtexassets.com/arquivos/ids/272997-800-auto?v=638116617849200000&width=800&height=auto&aspect=true","code":2000,"stock":1100,"id":2},
+    {"title":"Brahma","description":"1 Litro","price":550,"thumbnail":"https://masonlineprod.vtexassets.com/arquivos/ids/155943/Cerveza-Brahma-Retornable-1-Lt-2-1551.jpg?v=637835121505000000","code":3000,"stock":1200,"id":3},
+    {"title":"Andes","description":"1 Litro","price":560,"thumbnail":"https://almacenfamily.com/productos/7792798002115-355-5ee921024bc57.jpg","code":4000,"stock":1300,"id":4},
+    {"title":"Imperial","description":"1 Litro","price":600,"thumbnail":"https://http2.mlstatic.com/D_NQ_NP_981069-MLA50973672855_082022-O.webp","code":5000,"stock":1400,"id":5},
+    {"title":"Corona","description":"1 Litro","price":1250,"thumbnail":"https://http2.mlstatic.com/D_NQ_NP_977571-MLA46459474198_062021-V.jpg","code":6000,"stock":1500,"id":6},
+    {"title":"Heineken","description":"1 Litro","price":1150,"thumbnail":"https://d1on8qs0xdu5jz.cloudfront.net/webapp/images/fotos/b/0000000000/3157_1.jpg","code":7000,"stock":1600,"id":7},
+    {"title":"Stella","description":"1 Litro","price":1150,"thumbnail":"https://rankea.com.ar/wp-content/uploads/2020/10/stella-artois-1-litro.jpg","code":8000,"stock":1700,"id":8}
+
+]
